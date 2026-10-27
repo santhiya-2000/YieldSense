@@ -1,0 +1,6 @@
+Model,Grouped CV RMSE,Grouped test RMSE,Grouped test R²
+Linear Regression,4.7453,0.9708,0.7043
+Ridge,1.4157,1.0877,0.6288
+Lasso,1.2715,0.9364,0.7249
+PCR,1.5844,1.304,0.4665
+KNN Regression,1.3936,1.4945,0.2992

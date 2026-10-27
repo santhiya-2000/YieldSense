@@ -1,0 +1,6 @@
+Model,Random 5-fold CV RMSE,Grouped 5-fold CV RMSE,Increase (%)
+Linear Regression,10.2151,13.5086,32.241
+Ridge,1.5824,1.5607,-1.3722
+Lasso,1.1947,1.3199,10.48
+PCR,1.3522,1.4904,10.2244
+KNN Regression,1.3275,1.3937,4.9879
