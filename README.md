@@ -49,7 +49,7 @@ write.csv(ChemicalManufacturingProcess, "data/ChemicalManufacturingProcess.csv",
 
 ## Installation
 
-Python 3.9 or newer is required. From the `pharma-yield-ml/` folder:
+Python 3.9 or newer is required. From the repository root (`YieldSense/`):
 
 ```bash
 python3 -m venv .venv
@@ -127,7 +127,7 @@ repeats the full pipeline over 20 random splits to measure how noisy a single 36
 ## File structure
 
 ```
-pharma-yield-ml/
+YieldSense/
 ├── data/ChemicalManufacturingProcess.csv   # real dataset (downloaded)
 ├── notebooks/pharma_yield_analysis.ipynb   # executed, narrated analysis
 ├── src/
